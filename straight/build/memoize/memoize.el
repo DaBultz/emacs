@@ -1,0 +1,1 @@
+/home/bultz/.emacs.d/straight/repos/emacs-memoize/memoize.el
